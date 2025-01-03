@@ -1,2 +1,2 @@
 # QR-Code-Generator
-QR Code Generator with HTML, CSS, and JavaScript 
+QR Code Generator with HTML, CSS, and JavaScript is useful project that anyone can do. QR codes are those black-and-white squares you see everywhere, from product packaging to restaurant menus. They are a quick way to share information, like links to websites, contact details, or even Wi-Fi passwords. With just a bit of coding knowledge, you can create your own QR Code generator that works right in your web browser
